@@ -41,16 +41,22 @@ Here are some ideas to get you started:
 <!-- GitHub Stats with Custom Theme -->
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&langs_count=8"/>
+  <!-- Replace YOUR_USERNAME -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijit-das-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijit-das-dev&layout=compact&theme=algolia&langs_count=8"/>
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=algolia" alt="GitHub Streak">
+  <!-- Replace YOUR_USERNAME -->
+  <img src="https://streak-stats.demolab.com?user=abhijit-das-dev&theme=algolia" alt="GitHub Streak">
 </div>
 
----
+<!-- Visitor Counter -->
+<div align="center">
+  <!-- Replace YOUR_USERNAME -->
+  <img src="https://komarev.com/ghpvc/?username=abhijit-das-dev&color=blue&style=flat-square" alt="Profile views"/>
+</div>
 
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
