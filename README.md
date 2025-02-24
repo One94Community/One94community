@@ -31,8 +31,8 @@
 ---
 
 ## 📫 Let's Collaborate!
-- 🔗 **LinkedIn:** [linkedin](https://linkedin.com/in/AbhijitD9)
-- 📧 **Email:** [one94community@gmail.com](mailto:one94community@gmail.com)
-- 🌐 **Facebook:** [Facebook](https://facebook.com/abhijitd9)
+#### 🔗 **LinkedIn:** [LinkedIn](https://linkedin.com/in/AbhijitD9)
+#### 📧 **Email:** [one94community@gmail.com](mailto:one94community@gmail.com)
+#### 🌐 **Facebook:** [Facebook](https://facebook.com/abhijitd9)
 
 ---
